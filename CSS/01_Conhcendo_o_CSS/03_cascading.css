@@ -1,0 +1,14 @@
+/* 
+  Cascading
+  - Cascata
+  - Hierarquia de regras
+*/
+
+p {
+  color: violet;
+}
+
+/* Considera o ultimo elemento */
+.green{
+  color: green;
+}

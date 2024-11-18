@@ -1,0 +1,27 @@
+/* Seletores
+  - type | element | tag
+  - id
+  - class
+  - atributo
+  - universal
+*/
+
+p {
+  color: violet;
+}
+
+#text {
+  color: violet;
+}
+
+.pink {
+  color: violet;
+}
+
+[title="t"] {
+  color: violet;
+}
+
+* {
+  color: violet;
+}

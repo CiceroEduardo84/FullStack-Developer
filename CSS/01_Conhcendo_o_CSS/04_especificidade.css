@@ -1,0 +1,33 @@
+/* Especificade
+  - Cada seletor tem um peso
+  - Soma dos pesos faz a declaração ser aplicada
+
+  #id - 100
+  .class - 10
+  element - 1
+*/
+/* Nesse caso o blue no id text é que será aplicado , poís possui o maior peso. */
+#text {
+  color: blue;
+}
+
+.green {
+  color: green;
+}
+
+p {
+  color: red;
+}
+
+p#text.green {
+  color: black;
+}
+
+/* Mais específico 
+  - style (Usado direto no elemento html, recomendo não usar)
+  - !important (Recomendo não usar)
+*/
+
+#title {
+  font-size: 12px !important;
+}

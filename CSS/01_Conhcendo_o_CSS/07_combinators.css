@@ -1,0 +1,30 @@
+/* Combinators
+  - Descendentes
+  article p
+
+  - List
+  span, mark
+
+  - Next sibling
+  h2 + p
+  
+  - Child
+  aside > ul
+*/
+
+article p {
+  color: red;
+}
+
+span,
+mark {
+  color: red;
+}
+
+h2 + p {
+  color: red;
+}
+
+aside > ul {
+  margin-top: 60px;
+}
