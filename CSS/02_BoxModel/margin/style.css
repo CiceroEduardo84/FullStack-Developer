@@ -1,0 +1,20 @@
+div,
+span {
+  border: red;
+  width: 50%;
+}
+
+/* Margin */
+.margin {
+  /* margin: 30px; */
+  /* margin-top: 30px; */
+  /* margin-left: 60px; */
+  /* margin: 30px 10px 80px 4rem; */
+  /* margin: auto; */
+
+  /* margin-colapsing 
+    - junção (ex: top de uma div e bottom de
+     outra juntas ao invés de dar 60 dá 30.)
+  */
+  /* margin: 30px */
+}

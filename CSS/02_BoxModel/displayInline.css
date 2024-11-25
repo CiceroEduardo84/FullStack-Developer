@@ -1,0 +1,9 @@
+span {
+  border: 10px solid;
+
+  width: 200px;
+  height: 200px;
+
+  margin: 20px;
+  padding: 20px;
+}

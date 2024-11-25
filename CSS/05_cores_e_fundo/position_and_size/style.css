@@ -1,0 +1,15 @@
+/* 
+background-position
+background-size
+*/
+
+body {
+  background-image: url("https://www.fronteditor.dev/assets/favicon.4b33a4df.svg");
+  background-repeat: no-repeat;
+  /* background-position-x: right; */
+  /* background-position-y: center; */
+  background-position: center;
+  /* background-size: 200px; */
+  /* background-size: contain; */
+  background-size: cover;
+}

@@ -1,0 +1,17 @@
+/* Name colors
+  rebeccapurple
+  aliceblue
+
+  RGB Hexadecimal
+  #f09 - RGB
+  #ff0099 - RRGGBB
+  #f09a - RGBA
+  #ff0099cc - RRGGBBAA
+*/
+
+p {
+  /* color: red; */
+  /* color: #ff0099; */
+  /* color: #f09cf3; */
+  color: #bb3b88cc;
+}

@@ -1,0 +1,9 @@
+/* font-family */
+
+p {
+  /* genéricas */
+  /* font-family: monospace; */
+  /* nome da família + genéricos */
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif';
+}
+

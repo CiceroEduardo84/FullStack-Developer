@@ -1,0 +1,21 @@
+/* 
+  color
+  text-transform
+  text-decoration
+*/
+
+p {
+  /* text-transform: uppercase;   */
+  /* text-transform: lowercase;   */
+  /* text-transform: capitalize;   */
+}
+
+mark {
+  color: red;
+  text-transform: uppercase;
+}
+
+a {
+  /* text-decoration: line-through red dotted 3px; */
+  /* text-decoration: none; */
+}

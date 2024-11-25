@@ -1,0 +1,6 @@
+/* font (shorthand)
+  font-style, font-variante,
+  font-weight, font-stretch,font-sixe */
+p {
+  font: italic small-caps condensed 16px/1.6 sans-serif;
+}
