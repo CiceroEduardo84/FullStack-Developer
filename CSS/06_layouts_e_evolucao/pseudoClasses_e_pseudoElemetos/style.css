@@ -1,0 +1,27 @@
+/* div:hover {
+  background-color: lightcoral;
+} */
+
+/* div:not(.nao){
+  background-color: blue;
+} */
+
+/* section:has(div:hover) {
+  border: 2px solid  red;
+} */
+
+/* div:nth-child(3) {
+  background-color: lightblue;
+} */
+
+/* div::first-letter{
+  font-size: 40px;
+} */
+
+div::before {
+  content: "";
+  height: 100%;
+  width: 2px;
+  background-color: red;
+  position: absolute;
+}

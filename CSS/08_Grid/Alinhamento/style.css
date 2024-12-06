@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.grid {
+  height: 100vh;
+  width: 100vw;
+  display: grid;
+  background-color: black;
+
+  grid-template-columns: repeat(3, 100px);
+  grid-template-rows: repeat(3, 100px);
+  gap: 8px;
+
+  /* Eixo Y */
+  /* align-content: start; */
+  /* align-content: end; */
+  /* align-content: center; */
+  /* align-content: space-around; */
+  /* align-content: space-between; */
+
+  /* Eixo X */
+  /* justify-content: start; */
+  /* justify-content: center; */
+  /* justify-content: end; */
+  /* justify-content: space-around; */
+  /* justify-content: space-between; */
+  /* justify-content: space-evenly; */
+
+  /* Eixo X,Y */
+  /* place-content: center; */
+  /* place-content: end; */
+  /* place-content: space-evenly; */
+  /* place-content: space-between; */
+  /* place-content: space-around; */
+
+  /* Eixo Y */
+  /* align-items: stretch; */
+  /* align-items: start; */
+  /* align-items: center; */
+  /* align-items: end; */
+  /* align-items: baseline; */
+
+  /* Eixo X */
+  /* justify-items: start; */
+  /* justify-items: center; */
+  /* justify-items: end; */
+
+  /* Eixo X,Y */
+  /* place-items: start; */
+  /* place-items: end; */
+  /* place-items: center; */
+}
+
+.grid > div {
+  background-color: cornflowerblue;
+}
+
+.grid div:nth-child(2) {
+  /* align-self: start; */
+  /* align-self: center; */
+
+  /* justify-self: end; */
+  /* justify-self: center; */
+
+  place-self: center;
+}
+
+ul {
+  height: 100vh;
+  display: grid;
+  list-style: none;
+
+  grid-auto-flow: row;
+  grid-auto-rows: 1fr 2fr 3fr;
+  grid-auto-flow: column;
+  grid-auto-columns: 50px 100px 200px;
+  gap: 16px;
+}
