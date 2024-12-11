@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formulario</title>
+  </head>
+  <body>
+    <input form="meu_form" type="text" name="nome" />
+    <form id="meu_form" enctype="multipart/form-data">
+      <!-- Input Text -->
+      <input
+        form=""
+        readonly
+        value="test"
+        size="10"
+        autofocus
+        disabled
+        required
+        autocomplete=""
+        type="text"
+        name="nome"
+        placeholder="Digite o texto..."
+      />
+
+      <!-- Input Number -->
+      <input
+        min="16"
+        max="18"
+        type="number"
+        step="2"
+        required
+        placeholder="0"
+      />
+
+      <!-- Input Email -->
+      <input
+        type="email"
+        name="mail"
+        multiple
+        minlength="10"
+        maxlength="255"
+        title="Emails apenas @gmail.com"
+        pattern=".+@gmail\.com\.br"
+        required
+      />
+
+      <!-- Input Password -->
+      <!-- usado pelo method post(o mesmo ira escoonder a senha) para não comprometer a integridade da senha já que o method get passara as informações direto pela URL  -->
+      <input
+        type="password"
+        name="password"
+        minlength="8"
+        maxlength="12"
+        inputmode="numeric"
+        pattern="[#0-9a-fA-F]{4,8}"
+        title="Apenas Hexadecimal"
+      />
+
+      <!-- Input File -->
+      <input type="file" name="foto_perfil" multiple accept="video/*" />
+
+      <!-- Input Range -->
+      <input
+        max="200"
+        min="0"
+        step="20"
+        type="range"
+        name="total"
+        value="160"
+      />
+
+      <!-- Input Color -->
+      <datalist id="colorpicker">
+        <option value="#FCAC00"></option>
+        <option value="#FCACD0"></option>
+      </datalist>
+
+      <input type="color" name="color" value="#0FACAA" list="colorpicker" />
+
+      <!-- Input checkbox -->
+      <input type="checkbox" name="carro" value="fiat" checked />
+      <input type="checkbox" name="carro" value="audi" />
+
+      <!-- Input ratio -->
+      <input type="radio" name="carro" value="fiat" />
+      <input type="radio" name="carro" value="audi" checked />
+
+      <!-- Input hidden -->
+      <input type="hidden" name="id" value="hfhfhfhfhfh" />
+
+      <input type="date" name="" id="" />
+      <input type="datetime-local" name="" id="" />
+      <input type="url" name="" id="" />
+      <button>submit</button>
+    </form>
+  </body>
+</html>
