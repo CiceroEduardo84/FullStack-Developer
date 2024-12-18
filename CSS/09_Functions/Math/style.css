@@ -1,0 +1,8 @@
+div {
+  width: calc(30px * 1rem);
+  /* height: min(calc(50% + 10vh), 90vh); */
+  height: max(calc(50% + 10vh), 90vh);
+  border: pink solid;
+
+  font-size: clamp(1rem, 10vh, 2rem);
+}

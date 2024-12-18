@@ -1,0 +1,12 @@
+div {
+  width: 30px;
+  height: 30px;
+  border: pink solid;
+
+  /* transform: translateY(50px);
+  transform: translateY(-50px);
+  transform: translateX(-50px);
+  transform: translate(-50px, 50px); */
+
+  transform: translate(200px) rotate(40deg) scale(3);
+}

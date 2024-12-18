@@ -1,0 +1,11 @@
+div {
+  --size: 50px;
+  width: var(--size);
+  height: var(--size);
+  border: red solid;
+  background: url(https://source.unsplash.com/random) no-repeat center/contain;
+}
+
+div::before {
+  content: attr(aria-label);
+}

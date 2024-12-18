@@ -1,0 +1,8 @@
+div {
+  width: 50px;
+  height: 50px;
+  border: rgb(255, 0, 0) solid;
+  /* background-color: rgb(255, 0, 0); */
+  /* color: hsl(300, 78%, 50%, 0, 443) */
+  background-color: color-mix(in hsl, hsl(10 100% 50%), hsl(60 100% 50%));
+}
