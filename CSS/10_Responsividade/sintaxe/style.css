@@ -1,0 +1,53 @@
+/*
+  Optionaly: screen, print
+  breakpoints: pixels, rem, named
+  roles:min-width/max-width
+        orientation: landscape/portrait
+        prefers-color-scheme: dark
+  and:define limites
+      (min-width:576px) and (max-width:800px)
+  range:> >= < <=
+        width > 600px
+        600px < width < 800px
+  not: inverter lógica
+        not screen
+        not (min-width:576px) and (max-width:800px)
+*/
+
+/* Mobile-first/Desktop-first */
+
+:root {
+  --bg-color: rebeccapurple;
+  font-size: 62.5%;/*10px*/
+}
+
+body {
+  background-color: var(--bg-color);
+  color: white;
+}
+h1{
+  font-size: 2rem;
+}
+
+/* @media screen and (min-width: 576px) */
+
+/* -Pixels */
+/* @media (min-width: 576px) {
+  :root {
+    --bg-color: orangered;
+  }
+} */
+
+/* rem */
+/* @media (min-width: 20rem) {
+  :root {
+    --bg-color: orangered;
+  }
+} */
+
+/* named */
+@media (orientation: portrait) {
+  :root {
+    --bg-color: orangered;
+  }
+}
