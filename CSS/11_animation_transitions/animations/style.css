@@ -1,0 +1,38 @@
+button {
+  background-color: deeppink;
+  color: white;
+  width: 4rem;
+  height: 4rem;
+  border: none;
+  border-radius: 100%;
+
+  /* transform: translateY(300px); */
+  /* animation-name: move; */
+  /* animation-duration: 200ms; */
+  /* animation-delay: 1s; */
+  /* animation-fill-mode: backwards; */
+  /* animation-direction: reverse; */
+  /* animation-direction: alternate; */
+  /* animation-iteration-count: 3; */
+  /* animation-iteration-count: infinite; */
+  /* animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275); */
+
+  /* shorhand */
+  animation: move 1s 1s both infinite alternate ease, fade 100ms 10;
+}
+
+button:hover {
+  animation-play-state: paused;
+}
+
+@keyframes move {
+  100% {
+    transform: translateY(300px);
+  }
+}
+
+@keyframes fade {
+  100% {
+    opacity: 1;
+  }
+}
