@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "afd20892100cd164",
+    "type": "split",
+    "children": [
+      {
+        "id": "12a0ac13e03d6e1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55666841c6fb8888",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c56d2af1e348a34e",
+    "type": "split",
+    "children": [
+      {
+        "id": "11730ccd4730a591",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "197f8051077fbd27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "00fd6cd354efe31b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b1c940f982044430",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "94b27688c7497762",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e4a6ccff36e6365",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "591e43873da4adfd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "fa65b20c14cc7e8b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "30da3b1b4e56ce87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5c015eb826ba0f4e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "55666841c6fb8888",
+  "lastOpenFiles": [
+    "Javascript/Variaveis_e_constantes/Tipos_de_dados/Convercao_e_Coercao/scripts.js",
+    "Javascript/Variaveis_e_constantes/Tipos_de_dados/Convercao_e_Coercao/index.html",
+    "Javascript/Variaveis_e_constantes/Tipos_de_dados/Convercao_e_Coercao",
+    "Javascript/Variaveis_e_constantes/Tipos_de_dados/convercao_e_coercao",
+    "Javascript/Variaveis_e_constantes/Tipos_de_dados/Undefined e null/scripts.js",
+    "Javascript/Variaveis_e_constantes/Tipos_de_dados/Undefined e null/index.html",
+    "Javascript/Variaveis_e_constantes/Tipos_de_dados/Undefined e null",
+    "Javascript/Variaveis_e_constantes/Tipos_de_dados/Boolean/index.html",
+    "Javascript/Variaveis_e_constantes/Tipos_de_dados/Boolean/scripts.js",
+    "Javascript/Variaveis_e_constantes/Tipos_de_dados/Tipos de dados.md",
+    "Javascript/Variaveis_e_constantes/Variaveis.md",
+    "Javascript/Variaveis_e_constantes/Tipos_de_dados/Boolean",
+    "Javascript/Variaveis_e_constantes/Tipos_de_dados/Number/scripts.js",
+    "Javascript/img/tipos_primitivos.png",
+    "Javascript/img/scope.png",
+    "Javascript/img/exemple_variable.png",
+    "Javascript/Variaveis_e_constantes/Hoisting/Hoisting.md",
+    "Javascript/Variaveis_e_constantes/Escopo/Escopo.md",
+    "Javascript.md",
+    "Javascript/Variaveis/Hoisting/Hoisting.md",
+    "DALL·E 2025-01-11 12.39.44 - A detailed and realistic depiction of a crane hook designed for industrial purposes. The hook is metallic with a rugged, weathered texture, showcasing.webp",
+    "Javascript/Variaveis/img/Pasted image 20250111123633.png",
+    "Git/Markdown/README.MD",
+    "Javascript/Variaveis/Variaveis.md",
+    "Javascript/Variaveis/Escopo/Escopo.md",
+    "Javascript/Variaveis/img/exemple_variable.png",
+    "Javascript/variaveis/Variaveis.md",
+    "Javascript/variaveis/img/exemple_variable.png",
+    "Git/README.MD"
+  ]
+}
