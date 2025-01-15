@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "12a0ac13e03d6e1a",
+        "id": "a1b032547c77bda9",
         "type": "tabs",
         "children": [
           {
-            "id": "55666841c6fb8888",
+            "id": "114cbd6e54545c27",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -156,21 +156,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55666841c6fb8888",
+  "active": "114cbd6e54545c27",
   "lastOpenFiles": [
-    "Javascript/Variaveis_e_constantes/Tipos_de_dados/Convercao_e_Coercao/scripts.js",
-    "Javascript/Variaveis_e_constantes/Tipos_de_dados/Convercao_e_Coercao/index.html",
-    "Javascript/Variaveis_e_constantes/Tipos_de_dados/Convercao_e_Coercao",
-    "Javascript/Variaveis_e_constantes/Tipos_de_dados/convercao_e_coercao",
-    "Javascript/Variaveis_e_constantes/Tipos_de_dados/Undefined e null/scripts.js",
-    "Javascript/Variaveis_e_constantes/Tipos_de_dados/Undefined e null/index.html",
-    "Javascript/Variaveis_e_constantes/Tipos_de_dados/Undefined e null",
-    "Javascript/Variaveis_e_constantes/Tipos_de_dados/Boolean/index.html",
-    "Javascript/Variaveis_e_constantes/Tipos_de_dados/Boolean/scripts.js",
+    "Javascript/Expressoes_e_operadores/Operadores_logicos/scripts.js",
+    "Javascript/Expressoes_e_operadores/Operadores_logicos/index.html",
+    "Javascript/Expressoes_e_operadores/Operadores_logicos",
+    "Javascript/Expressoes_e_operadores/operadores_logicos/scripts.js",
+    "Javascript/Expressoes_e_operadores/operadores_logicos/index.html",
+    "Javascript/Expressoes_e_operadores/operadores_logicos",
+    "Javascript/Expressoes_e_operadores/Operadores_comparação/scripts.js",
+    "Javascript/Expressoes_e_operadores/Operadores_comparação/index.html",
+    "Javascript/Expressoes_e_operadores/Operadores_comparação",
+    "Javascript/Expressoes_e_operadores/Operadores_de_atribuicao/scripts.js",
+    "Javascript/Expressoes_e_operadores/Operadores_de_atribuicao/index.html",
+    "Javascript/Expressoes_e_operadores/Ordem_de_precedencia/Ordem de precedência.md",
+    "Javascript/Expressoes_e_operadores/operadores_aritmeticos/Ordem_de_precedencia/Ordem de precedência.md",
+    "Javascript/img/Ordem_de_precedencia.png",
+    "Expressões e operadores.md",
+    "Javascript/Expressoes_e_operadores/Expressões e operadores.md",
     "Javascript/Variaveis_e_constantes/Tipos_de_dados/Tipos de dados.md",
     "Javascript/Variaveis_e_constantes/Variaveis.md",
-    "Javascript/Variaveis_e_constantes/Tipos_de_dados/Boolean",
-    "Javascript/Variaveis_e_constantes/Tipos_de_dados/Number/scripts.js",
     "Javascript/img/tipos_primitivos.png",
     "Javascript/img/scope.png",
     "Javascript/img/exemple_variable.png",
