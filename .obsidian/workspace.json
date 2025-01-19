@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a1b032547c77bda9",
+        "id": "c195d2d0493b001f",
         "type": "tabs",
         "children": [
           {
-            "id": "114cbd6e54545c27",
+            "id": "ec6cac1bf52d1096",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -156,19 +156,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "114cbd6e54545c27",
+  "active": "ec6cac1bf52d1096",
   "lastOpenFiles": [
-    "Javascript/Expressoes_e_operadores/Operadores_logicos/scripts.js",
-    "Javascript/Expressoes_e_operadores/Operadores_logicos/index.html",
-    "Javascript/Expressoes_e_operadores/Operadores_logicos",
-    "Javascript/Expressoes_e_operadores/operadores_logicos/scripts.js",
-    "Javascript/Expressoes_e_operadores/operadores_logicos/index.html",
-    "Javascript/Expressoes_e_operadores/operadores_logicos",
-    "Javascript/Expressoes_e_operadores/Operadores_comparação/scripts.js",
-    "Javascript/Expressoes_e_operadores/Operadores_comparação/index.html",
-    "Javascript/Expressoes_e_operadores/Operadores_comparação",
-    "Javascript/Expressoes_e_operadores/Operadores_de_atribuicao/scripts.js",
-    "Javascript/Expressoes_e_operadores/Operadores_de_atribuicao/index.html",
+    "Javascript/Funcoes/Funções.md",
+    "Javascript/Funcoes/callbackFunction/scripts.js",
+    "Javascript/Funcoes/callbackFunction/index.html",
+    "Javascript/Funcoes/callbackFunction",
+    "Javascript/Funcoes/ArrowFunction/scripts.js",
+    "Javascript/Funcoes/ArrowFunction/index.html",
+    "Javascript/Funcoes/ArrowFunction",
+    "Javascript/Funcoes/Funcoes_anonimas/index.html",
+    "Javascript/Funcoes/Funcoes_anonimas/scripts.js",
+    "Javascript/Funcoes/Funcoes_anonimas",
+    "Javascript/Funcoes/Comentario_de_documentacao/scripts.js",
+    "Funções.md",
+    "Javascript/Tratamento_de_Exceções/Tratamento de exceções.md",
+    "Javascript/Condicionais_e_controle_de_fluxo/Tratamento_de_Exceções/Tratamento de exceções.md",
+    "Javascript/Condicionais_e_controle_de_fluxo/Estrutura de condição.md",
+    "Javascript/Condicionais/Tratamento_de_Exceções/Tratamento de exceções.md",
+    "Javascript/img/Pasted image 20250118202355.png",
+    "Tratamento de exceções.md",
+    "Javascript/img/condição.png",
+    "Javascript/Condicionais/Estrutura de condição.md",
     "Javascript/Expressoes_e_operadores/Ordem_de_precedencia/Ordem de precedência.md",
     "Javascript/Expressoes_e_operadores/operadores_aritmeticos/Ordem_de_precedencia/Ordem de precedência.md",
     "Javascript/img/Ordem_de_precedencia.png",
