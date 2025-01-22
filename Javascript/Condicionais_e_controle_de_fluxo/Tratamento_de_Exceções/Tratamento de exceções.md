@@ -6,4 +6,4 @@ Essas situações inesperadas podem incluir condições de falha ou eventos que 
 
 Ex: tentativa de abrir arquivo que não existe ou falha na conexão com uma banco de dados.
 
-![[Pasted image 20250118202355.png]]
+![[Try_catch.png]]

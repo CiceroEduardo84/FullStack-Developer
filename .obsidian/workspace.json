@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c195d2d0493b001f",
+        "id": "d72a4a4c545a1e3e",
         "type": "tabs",
         "children": [
           {
-            "id": "ec6cac1bf52d1096",
+            "id": "4a69a253396bb44a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/DOM/Expressões_regulares/Expressões Regulares.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Expressões Regulares"
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "94b27688c7497762",
@@ -156,8 +161,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec6cac1bf52d1096",
+  "active": "4a69a253396bb44a",
   "lastOpenFiles": [
+    "Javascript/DOM/Expressões_regulares/Manipulando_valor_do_input/index.html",
+    "Javascript/DOM/Expressões_regulares/Manipulando_valor_do_input/scripts.js",
+    "Javascript/DOM/Expressões_regulares/Manipulando_valor_do_input/styles.css",
+    "Javascript/DOM/Expressões_regulares/Manipulando_valor_do_input",
+    "Javascript/img/expressoes_regulares.png",
+    "Javascript/DOM/Expressões_regulares/Expressões Regulares.md",
+    "Javascript/DOM/Expressões_regulares",
+    "Javascript/DOM/DOM.md",
+    "Javascript/img/Try_catch.png",
+    "Javascript/img/DOM.png",
+    "Javascript/Javascript.md",
     "Javascript/Funcoes/Funções.md",
     "Javascript/Funcoes/callbackFunction/scripts.js",
     "Javascript/Funcoes/callbackFunction/index.html",
@@ -165,16 +181,11 @@
     "Javascript/Funcoes/ArrowFunction/scripts.js",
     "Javascript/Funcoes/ArrowFunction/index.html",
     "Javascript/Funcoes/ArrowFunction",
-    "Javascript/Funcoes/Funcoes_anonimas/index.html",
-    "Javascript/Funcoes/Funcoes_anonimas/scripts.js",
-    "Javascript/Funcoes/Funcoes_anonimas",
-    "Javascript/Funcoes/Comentario_de_documentacao/scripts.js",
     "Funções.md",
     "Javascript/Tratamento_de_Exceções/Tratamento de exceções.md",
     "Javascript/Condicionais_e_controle_de_fluxo/Tratamento_de_Exceções/Tratamento de exceções.md",
     "Javascript/Condicionais_e_controle_de_fluxo/Estrutura de condição.md",
     "Javascript/Condicionais/Tratamento_de_Exceções/Tratamento de exceções.md",
-    "Javascript/img/Pasted image 20250118202355.png",
     "Tratamento de exceções.md",
     "Javascript/img/condição.png",
     "Javascript/Condicionais/Estrutura de condição.md",
@@ -197,9 +208,6 @@
     "Git/Markdown/README.MD",
     "Javascript/Variaveis/Variaveis.md",
     "Javascript/Variaveis/Escopo/Escopo.md",
-    "Javascript/Variaveis/img/exemple_variable.png",
-    "Javascript/variaveis/Variaveis.md",
-    "Javascript/variaveis/img/exemple_variable.png",
-    "Git/README.MD"
+    "Javascript/variaveis/Variaveis.md"
   ]
 }
