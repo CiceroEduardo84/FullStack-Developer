@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c668a1d0ed5a02cc",
+        "id": "690ca1d37ee8e7a0",
         "type": "tabs",
         "children": [
           {
-            "id": "62a0b0dbd2d9eb91",
+            "id": "cec1d33bbf3e5372",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/02-intermediary/Objetos/Objetos.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Objetos"
             }
           }
         ]
@@ -157,8 +161,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62a0b0dbd2d9eb91",
+  "active": "cec1d33bbf3e5372",
   "lastOpenFiles": [
+    "Javascript/scripts.js",
+    "Javascript/index.html",
+    "Javascript/02-intermediary/Objetos/Objetos.md",
+    "Javascript/02-intermediary/Objetos",
     "Javascript/Depuracao_de_código/Debug.md",
     "Javascript/Depuracao_de_código/styles.css",
     "Javascript/Depuracao_de_código/scripts.js",
@@ -171,13 +179,11 @@
     "Javascript/DOM/Expressões_regulares/Manipulando_valor_do_input/styles.css",
     "Javascript/DOM/Expressões_regulares/Manipulando_valor_do_input",
     "Javascript/img/expressoes_regulares.png",
-    "Javascript/DOM/Expressões_regulares",
     "Javascript/DOM/DOM.md",
     "Javascript/img/Try_catch.png",
     "Javascript/img/DOM.png",
     "Javascript/Javascript.md",
     "Javascript/Funcoes/Funções.md",
-    "Javascript/Funcoes/callbackFunction/scripts.js",
     "Funções.md",
     "Javascript/Tratamento_de_Exceções/Tratamento de exceções.md",
     "Javascript/Condicionais_e_controle_de_fluxo/Tratamento_de_Exceções/Tratamento de exceções.md",
@@ -202,7 +208,6 @@
     "Javascript/Variaveis/Hoisting/Hoisting.md",
     "DALL·E 2025-01-11 12.39.44 - A detailed and realistic depiction of a crane hook designed for industrial purposes. The hook is metallic with a rugged, weathered texture, showcasing.webp",
     "Javascript/Variaveis/img/Pasted image 20250111123633.png",
-    "Git/Markdown/README.MD",
-    "Javascript/Variaveis/Variaveis.md"
+    "Git/Markdown/README.MD"
   ]
 }
