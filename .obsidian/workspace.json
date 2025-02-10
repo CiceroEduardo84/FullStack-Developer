@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "690ca1d37ee8e7a0",
+        "id": "c2ce0d2171a0db47",
         "type": "tabs",
         "children": [
           {
-            "id": "cec1d33bbf3e5372",
+            "id": "c8ab39def098c558",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/02-intermediary/Objetos/Objetos.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Objetos"
+              "title": "New tab"
             }
           }
         ]
@@ -40,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "94b27688c7497762",
@@ -161,11 +157,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cec1d33bbf3e5372",
+  "active": "c8ab39def098c558",
   "lastOpenFiles": [
+    "Javascript/02-intermediary/Repeticoes_e_interacoes",
+    "Javascript/02-intermediary/Arrays/Array.md",
+    "Javascript/img/array.png",
+    "Javascript/02-intermediary/Objetos/Objetos.md",
+    "Javascript/02-intermediary/Arrays",
     "Javascript/scripts.js",
     "Javascript/index.html",
-    "Javascript/02-intermediary/Objetos/Objetos.md",
     "Javascript/02-intermediary/Objetos",
     "Javascript/Depuracao_de_código/Debug.md",
     "Javascript/Depuracao_de_código/styles.css",
@@ -176,8 +176,6 @@
     "Javascript/DOM/Expressões_regulares/Expressões Regulares.md",
     "Javascript/DOM/Expressões_regulares/Manipulando_valor_do_input/index.html",
     "Javascript/DOM/Expressões_regulares/Manipulando_valor_do_input/scripts.js",
-    "Javascript/DOM/Expressões_regulares/Manipulando_valor_do_input/styles.css",
-    "Javascript/DOM/Expressões_regulares/Manipulando_valor_do_input",
     "Javascript/img/expressoes_regulares.png",
     "Javascript/DOM/DOM.md",
     "Javascript/img/Try_catch.png",
@@ -206,8 +204,6 @@
     "Javascript/Variaveis_e_constantes/Escopo/Escopo.md",
     "Javascript.md",
     "Javascript/Variaveis/Hoisting/Hoisting.md",
-    "DALL·E 2025-01-11 12.39.44 - A detailed and realistic depiction of a crane hook designed for industrial purposes. The hook is metallic with a rugged, weathered texture, showcasing.webp",
-    "Javascript/Variaveis/img/Pasted image 20250111123633.png",
-    "Git/Markdown/README.MD"
+    "DALL·E 2025-01-11 12.39.44 - A detailed and realistic depiction of a crane hook designed for industrial purposes. The hook is metallic with a rugged, weathered texture, showcasing.webp"
   ]
 }
