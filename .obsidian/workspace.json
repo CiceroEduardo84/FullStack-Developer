@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c2ce0d2171a0db47",
+        "id": "2e4d2fc913ea70d7",
         "type": "tabs",
         "children": [
           {
-            "id": "c8ab39def098c558",
+            "id": "b4afc9450eae21d0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,8 +157,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8ab39def098c558",
+  "active": "b4afc9450eae21d0",
   "lastOpenFiles": [
+    "Javascript/02-intermediary/Repeticoes_e_interacoes/While",
+    "Javascript/02-intermediary/Repeticoes_e_interacoes/Reptições.md",
+    "Javascript/img/repeticoes.png",
+    "Pasted image 20250209233407.png",
     "Javascript/02-intermediary/Repeticoes_e_interacoes",
     "Javascript/02-intermediary/Arrays/Array.md",
     "Javascript/img/array.png",
@@ -175,7 +179,6 @@
     "Javascript/Depuracao_de_código",
     "Javascript/DOM/Expressões_regulares/Expressões Regulares.md",
     "Javascript/DOM/Expressões_regulares/Manipulando_valor_do_input/index.html",
-    "Javascript/DOM/Expressões_regulares/Manipulando_valor_do_input/scripts.js",
     "Javascript/img/expressoes_regulares.png",
     "Javascript/DOM/DOM.md",
     "Javascript/img/Try_catch.png",
@@ -199,11 +202,8 @@
     "Javascript/Variaveis_e_constantes/Variaveis.md",
     "Javascript/img/tipos_primitivos.png",
     "Javascript/img/scope.png",
-    "Javascript/img/exemple_variable.png",
     "Javascript/Variaveis_e_constantes/Hoisting/Hoisting.md",
     "Javascript/Variaveis_e_constantes/Escopo/Escopo.md",
-    "Javascript.md",
-    "Javascript/Variaveis/Hoisting/Hoisting.md",
-    "DALL·E 2025-01-11 12.39.44 - A detailed and realistic depiction of a crane hook designed for industrial purposes. The hook is metallic with a rugged, weathered texture, showcasing.webp"
+    "Javascript.md"
   ]
 }
