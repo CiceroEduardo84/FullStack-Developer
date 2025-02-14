@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2e4d2fc913ea70d7",
+        "id": "362bebe4cac6f935",
         "type": "tabs",
         "children": [
           {
-            "id": "b4afc9450eae21d0",
+            "id": "47f3462a72f6d5fc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,8 +157,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4afc9450eae21d0",
+  "active": "47f3462a72f6d5fc",
   "lastOpenFiles": [
+    "Javascript/02-intermediary/Data_e_Hora/Fuso_horário/Fuso Horário.md",
     "Javascript/02-intermediary/Repeticoes_e_interacoes/While",
     "Javascript/02-intermediary/Repeticoes_e_interacoes/Reptições.md",
     "Javascript/img/repeticoes.png",
@@ -178,7 +179,6 @@
     "Debug.md",
     "Javascript/Depuracao_de_código",
     "Javascript/DOM/Expressões_regulares/Expressões Regulares.md",
-    "Javascript/DOM/Expressões_regulares/Manipulando_valor_do_input/index.html",
     "Javascript/img/expressoes_regulares.png",
     "Javascript/DOM/DOM.md",
     "Javascript/img/Try_catch.png",
