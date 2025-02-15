@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "362bebe4cac6f935",
+        "id": "c510e575dc7acbcb",
         "type": "tabs",
         "children": [
           {
-            "id": "47f3462a72f6d5fc",
+            "id": "29a598b6a7ef5813",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/02-intermediary/Classes/Heranca_e_cadeia_de_prototipos/Prototype Chain.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Prototype Chain"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "94b27688c7497762",
@@ -157,27 +162,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47f3462a72f6d5fc",
+  "active": "29a598b6a7ef5813",
   "lastOpenFiles": [
+    "Javascript/02-intermediary/Classes/Utilizando_classes_para_criar_erros_customizados/scripts.js",
+    "Javascript/02-intermediary/Classes/Utilizando_classes_para_criar_erros_customizados/index.html",
+    "Javascript/02-intermediary/Classes/Utilizando_classes_para_criar_erros_customizados",
+    "Javascript/02-intermediary/Classes/Utilizando_classes_paracriar_erros_customizados/index.html",
+    "Javascript/02-intermediary/Classes/Utilizando_classes_paracriar_erros_customizados/scripts.js",
+    "Javascript/02-intermediary/Classes/Utilizando_classes_paracriar_erros_customizados",
+    "Javascript/02-intermediary/Classes/Utilizando_classes_para_lidar_com_excecoes/index.html",
+    "Javascript/02-intermediary/Classes/Utilizando_classes_para_lidar_com_excecoes/scripts.js",
+    "Javascript/02-intermediary/Classes/Utilizando_classes_para_lidar_com_excecoes",
+    "Javascript/02-intermediary/Classes/Utilizando_classes_para_lidar_com_e",
+    "Javascript/02-intermediary/Classes/Heranca_e_cadeia_de_prototipos/Criando_um_objeto_prototype/scripts.js",
+    "Javascript/02-intermediary/Classes/Classes.md",
+    "Javascript/02-intermediary/Classes/Heranca_e_cadeia_de_prototipos/Prototype Chain.md",
+    "Javascript.md",
     "Javascript/02-intermediary/Data_e_Hora/Fuso_horário/Fuso Horário.md",
-    "Javascript/02-intermediary/Repeticoes_e_interacoes/While",
     "Javascript/02-intermediary/Repeticoes_e_interacoes/Reptições.md",
     "Javascript/img/repeticoes.png",
     "Pasted image 20250209233407.png",
-    "Javascript/02-intermediary/Repeticoes_e_interacoes",
     "Javascript/02-intermediary/Arrays/Array.md",
     "Javascript/img/array.png",
     "Javascript/02-intermediary/Objetos/Objetos.md",
-    "Javascript/02-intermediary/Arrays",
-    "Javascript/scripts.js",
-    "Javascript/index.html",
-    "Javascript/02-intermediary/Objetos",
     "Javascript/Depuracao_de_código/Debug.md",
-    "Javascript/Depuracao_de_código/styles.css",
-    "Javascript/Depuracao_de_código/scripts.js",
-    "Javascript/Depuracao_de_código/index.html",
     "Debug.md",
-    "Javascript/Depuracao_de_código",
     "Javascript/DOM/Expressões_regulares/Expressões Regulares.md",
     "Javascript/img/expressoes_regulares.png",
     "Javascript/DOM/DOM.md",
@@ -199,11 +208,7 @@
     "Expressões e operadores.md",
     "Javascript/Expressoes_e_operadores/Expressões e operadores.md",
     "Javascript/Variaveis_e_constantes/Tipos_de_dados/Tipos de dados.md",
-    "Javascript/Variaveis_e_constantes/Variaveis.md",
     "Javascript/img/tipos_primitivos.png",
-    "Javascript/img/scope.png",
-    "Javascript/Variaveis_e_constantes/Hoisting/Hoisting.md",
-    "Javascript/Variaveis_e_constantes/Escopo/Escopo.md",
-    "Javascript.md"
+    "Javascript/img/scope.png"
   ]
 }
