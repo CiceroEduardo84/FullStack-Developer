@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/02-intermediary/Classes/Heranca_e_cadeia_de_prototipos/Prototype Chain.md",
+                "file": "Javascript/03-Antes_do_framework/Js_moderno/Conhecendo_o_ECMAScript/ECMAScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prototype Chain"
+              "title": "ECMAScript"
             }
           }
         ]
@@ -164,6 +164,9 @@
   },
   "active": "29a598b6a7ef5813",
   "lastOpenFiles": [
+    "Javascript/02-intermediary/Classes/Heranca_e_cadeia_de_prototipos/Prototype Chain.md",
+    "Javascript/03-Antes_do_framework/Js_moderno/Conhecendo_o_ECMAScript/ECMAScript.md",
+    "Javascript/03-Antes_do_framework/Js_moderno/Conhecendo_o_ECMAScript",
     "Javascript/02-intermediary/Classes/Utilizando_classes_para_criar_erros_customizados/scripts.js",
     "Javascript/02-intermediary/Classes/Utilizando_classes_para_criar_erros_customizados/index.html",
     "Javascript/02-intermediary/Classes/Utilizando_classes_para_criar_erros_customizados",
@@ -173,10 +176,7 @@
     "Javascript/02-intermediary/Classes/Utilizando_classes_para_lidar_com_excecoes/index.html",
     "Javascript/02-intermediary/Classes/Utilizando_classes_para_lidar_com_excecoes/scripts.js",
     "Javascript/02-intermediary/Classes/Utilizando_classes_para_lidar_com_excecoes",
-    "Javascript/02-intermediary/Classes/Utilizando_classes_para_lidar_com_e",
-    "Javascript/02-intermediary/Classes/Heranca_e_cadeia_de_prototipos/Criando_um_objeto_prototype/scripts.js",
     "Javascript/02-intermediary/Classes/Classes.md",
-    "Javascript/02-intermediary/Classes/Heranca_e_cadeia_de_prototipos/Prototype Chain.md",
     "Javascript.md",
     "Javascript/02-intermediary/Data_e_Hora/Fuso_horário/Fuso Horário.md",
     "Javascript/02-intermediary/Repeticoes_e_interacoes/Reptições.md",
