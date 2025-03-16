@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "3401ac56f8b6dd9a",
+    "id": "80c8a7b2ca244c31",
     "type": "split",
     "children": [
       {
-        "id": "88098ae4d4c784c0",
+        "id": "3045138c13551392",
         "type": "tabs",
         "children": [
           {
-            "id": "b2a93a9010c56777",
+            "id": "ce60aab47803989d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Typescript/introdução/Typescript.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Typescript"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e22f7dcc50c7c454",
+    "id": "68532c307c8d488c",
     "type": "split",
     "children": [
       {
-        "id": "ae7912010170543e",
+        "id": "4fec27765537c259",
         "type": "tabs",
         "children": [
           {
-            "id": "65d319085ca0c0fb",
+            "id": "59f641c647b7f4ac",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "d336b0af39988621",
+            "id": "8d2fde7608554c47",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "4f0a65669793902d",
+            "id": "727a21939c560c44",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "bafb5cdb6be1bf04",
+    "id": "6d6b4718b613d3a6",
     "type": "split",
     "children": [
       {
-        "id": "bcb5a6ac1e45f221",
+        "id": "c11358996231ee0c",
         "type": "tabs",
         "children": [
           {
-            "id": "a0b83f3fbc7f52a0",
+            "id": "c453670cf258cfa3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/03-Antes_do_framework/Funcoes_assincronas/Funções assincronas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +104,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Funções assincronas"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "ae5f5c5acbc8f103",
+            "id": "dd30c7ae46834e49",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/03-Antes_do_framework/Funcoes_assincronas/Funções assincronas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Funções assincronas"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "7769d1ceee3608ad",
+            "id": "6e28ea5e48b4b406",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,18 +136,17 @@
             }
           },
           {
-            "id": "13347910ccd76812",
+            "id": "bf45ea05577ee582",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/03-Antes_do_framework/Funcoes_assincronas/Funções assincronas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Funções assincronas"
+              "title": "Outline"
             }
           }
         ]
@@ -164,20 +166,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65d319085ca0c0fb",
+  "active": "ce60aab47803989d",
   "lastOpenFiles": [
-    "Javascript/03-Antes_do_framework/Bundlers/Bundlers.md",
-    "Javascript/img/arvore.png",
-    "Javascript/03-Antes_do_framework/Compiladores/Compiladores.md",
-    "Javascript/03-Antes_do_framework/Working_APIs/API.md",
-    "Javascript/img/clienteServidor.png",
-    "Pasted image 20250305111025.png",
-    "Javascript/03-Antes_do_framework/Pacotes/Resolucao_de_dependencias/Resolução de dependências.md",
-    "Javascript/03-Antes_do_framework/Working_APIs",
-    "Javascript/03-Antes_do_framework/Pacotes/Gerenciador_de_pacotes/Gerenciador de pacotes.md",
-    "Javascript/03-Antes_do_framework/Pacotes/Pacotes.md",
-    "Javascript/03-Antes_do_framework/Funcoes_assincronas/Event Loop.md",
-    "Javascript/img/Eventloop.png",
-    "Javascript/03-Antes_do_framework/Funcoes_assincronas/Funções assincronas.md"
+    "Typescript/introdução/Typescript.md",
+    "Javascript/03-Antes_do_framework/Bundlers/Bundlers.md"
   ]
 }
