@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3045138c13551392",
+        "id": "573e411da0fde766",
         "type": "tabs",
         "children": [
           {
-            "id": "ce60aab47803989d",
+            "id": "8c02f0ed02336c6e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Typescript/introdução/Typescript.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Typescript"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6d6b4718b613d3a6",
@@ -166,8 +161,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce60aab47803989d",
+  "active": "59f641c647b7f4ac",
   "lastOpenFiles": [
+    "Nodejs/api/package.json",
+    "Nodejs/api",
+    "Nodejs/Funcionamento do Node.md",
+    "Nodejs/images/event-loop.png",
+    "Nodejs/images",
+    "Nodejs/Node.md",
     "Typescript/introdução/Typescript.md",
     "Javascript/03-Antes_do_framework/Bundlers/Bundlers.md"
   ]
