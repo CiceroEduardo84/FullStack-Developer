@@ -1,0 +1,98 @@
+type: collection.insomnia.rest/5.0
+name: MyFirstApi
+meta:
+  id: wrk_acf547b5302a4df6a015db87b7142c42
+  created: 1742515522098
+  modified: 1742515522098
+collection:
+  - url: localhost:3333/products
+    name: CREATE
+    meta:
+      id: req_31b034c2ff72487b95be15b7c7a1ed9b
+      created: 1742515550909
+      modified: 1742650274710
+      isPrivate: false
+      sortKey: -1742515550910
+    method: POST
+    body:
+      mimeType: application/json
+      text: |-
+        {
+        	"name":"teclado",
+        	"price": 120.50
+        }
+    headers:
+      - name: Content-Type
+        value: application/json
+      - name: User-Agent
+        value: insomnia/11.0.0
+    settings:
+      renderRequestBody: true
+      encodeUrl: true
+      followRedirects: global
+      cookies:
+        send: true
+        store: true
+      rebuildPath: true
+  - url: localhost:3333/products
+    name: LIST
+    meta:
+      id: req_d591b992e2494d2eb8817c22001ddaba
+      created: 1742650290667
+      modified: 1742652175987
+      isPrivate: false
+      sortKey: -1742650290667
+    method: GET
+    parameters:
+      - id: pair_8b3af0f7da6a4ecb848b094dc8b5a846
+        name: category
+        value: computer
+        disabled: false
+      - id: pair_1a88aaa01f58422a81d7d781879f09b9
+        name: price
+        value: "5000"
+        disabled: false
+    headers:
+      - name: User-Agent
+        value: insomnia/11.0.0
+    settings:
+      renderRequestBody: true
+      encodeUrl: true
+      followRedirects: global
+      cookies:
+        send: true
+        store: true
+      rebuildPath: true
+  - url: localhost:3333/products/7
+    name: DELETE
+    meta:
+      id: req_85cbc39a1c20494e8b92b1ddeea44fc9
+      created: 1742650559025
+      modified: 1742651616324
+      isPrivate: false
+      sortKey: -1742650559025
+    method: DELETE
+    headers:
+      - name: User-Agent
+        value: insomnia/11.0.0
+    settings:
+      renderRequestBody: true
+      encodeUrl: true
+      followRedirects: global
+      cookies:
+        send: true
+        store: true
+      rebuildPath: true
+cookieJar:
+  name: Default Jar
+  meta:
+    id: jar_57cc80f6926654983a4999b91844de22164d569f
+    created: 1742515522116
+    modified: 1742515522116
+environments:
+  name: Base Environment
+  meta:
+    id: env_57cc80f6926654983a4999b91844de22164d569f
+    created: 1742515522110
+    modified: 1742515522110
+    isPrivate: false
