@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8361c477619b65e3",
+        "id": "d39cbf3472cf3479",
         "type": "tabs",
         "children": [
           {
-            "id": "6fd1893a065dfcf9",
+            "id": "66fb7d012132c9dd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Nodejs/Manipulando_Dados/Amazenamento de dados.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Amazenamento de dados"
             }
           }
         ]
@@ -161,17 +165,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6fd1893a065dfcf9",
+  "active": "66fb7d012132c9dd",
   "lastOpenFiles": [
-    "Nodejs/Fundamentos_de_API/api/Insomnia_2025-03-22.yaml",
-    "Nodejs/Fundamentos_de_API/api/src/utils/extract-query-params.js",
-    "Nodejs/Fundamentos_de_API/api/src/utils/parseRoutrPath.js",
-    "Nodejs/Fundamentos_de_API/api/src/utils",
-    "Nodejs/Fundamentos_de_API/api/src/Middleware/routesHandler.js",
-    "Nodejs/Fundamentos_de_API/api/src/Routes/routes.js",
-    "Nodejs/Fundamentos_de_API/api/src/Routes",
-    "Nodejs/Fundamentos_de_API/api/src/Middleware/jsonHandler.js",
-    "Nodejs/Fundamentos_de_API/api/src/Middleware",
+    "Nodejs/Manipulando_Dados/api/src/db.json",
+    "Nodejs/Manipulando_Dados/api/src/database.js",
+    "Nodejs/Manipulando_Dados/api/src/utils/parseRoutrPath.js",
+    "Nodejs/Manipulando_Dados/api/src/utils/extract-query-params.js",
+    "Nodejs/Manipulando_Dados/api/src/Routes/routes.js",
+    "Nodejs/Manipulando_Dados/api/src/Middleware/routesHandler.js",
+    "Nodejs/Manipulando_Dados/api/src/Middleware/jsonHandler.js",
+    "Nodejs/Manipulando_Dados/api/src/utils",
+    "Nodejs/Manipulando_Dados/api/src/server.js",
+    "Nodejs/Manipulando_Dados/api/src/Routes",
+    "Nodejs/Manipulando_Dados/api/src/Middleware",
+    "Nodejs/Manipulando_Dados/Amazenamento de dados.md",
+    "Nodejs/Node.md",
     "Javascript/03-Antes_do_framework/Pacotes/Pacotes.md",
     "Nodejs/Fundamentos_de_API/Middleware.md",
     "Nodejs/Fundamentos_de_API/Metodos HTTP.md",
@@ -182,12 +190,9 @@
     "Nodejs/images/event-loop.png",
     "Nodejs/Fundamentos_de_API/API.md",
     "Nodejs/images/chunks_exemplo.png",
-    "Nodejs/Fundamentos_de_API/api/src/server.js",
-    "Nodejs/Fundamentos_de_API/api/src",
     "Nodejs/images/API.png",
     "Nodejs/images/image.png",
     "Nodejs/Funcionamento do Node.md",
-    "Nodejs/Node.md",
     "Typescript/introdução/Typescript.md",
     "Javascript/03-Antes_do_framework/Bundlers/Bundlers.md"
   ]

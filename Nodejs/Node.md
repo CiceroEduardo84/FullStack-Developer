@@ -1,4 +1,4 @@
-# Node
+# [[Javascript]] - Node
 O Node.js não é uma linguagem de programação. Javascript é a linguagem de programação que o Node é capaz de executar.
 
 O Node.js foi criado por Ryan Dahl em 2009 no decorrer de uma análise de como as páginas da web funcionavam.
