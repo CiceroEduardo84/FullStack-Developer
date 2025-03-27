@@ -1,0 +1,16 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "Criando uma API REST com Node.js",
+  "main": "src/server.ts",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "author": "Cicero Eduardo",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.12",
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.4"
+  }
+}

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d39cbf3472cf3479",
+        "id": "6019a5ceaf39dd24",
         "type": "tabs",
         "children": [
           {
-            "id": "66fb7d012132c9dd",
+            "id": "68cecc47a5218fa5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodejs/Manipulando_Dados/Amazenamento de dados.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Amazenamento de dados"
+              "title": "New tab"
             }
           }
         ]
@@ -165,8 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66fb7d012132c9dd",
+  "active": "59f641c647b7f4ac",
   "lastOpenFiles": [
+    "Nodejs/API_REST/APIRestFull.md",
+    "Nodejs/Manipulando_Dados/Amazenamento de dados.md",
     "Nodejs/Manipulando_Dados/api/src/db.json",
     "Nodejs/Manipulando_Dados/api/src/database.js",
     "Nodejs/Manipulando_Dados/api/src/utils/parseRoutrPath.js",
@@ -177,8 +175,6 @@
     "Nodejs/Manipulando_Dados/api/src/utils",
     "Nodejs/Manipulando_Dados/api/src/server.js",
     "Nodejs/Manipulando_Dados/api/src/Routes",
-    "Nodejs/Manipulando_Dados/api/src/Middleware",
-    "Nodejs/Manipulando_Dados/Amazenamento de dados.md",
     "Nodejs/Node.md",
     "Javascript/03-Antes_do_framework/Pacotes/Pacotes.md",
     "Nodejs/Fundamentos_de_API/Middleware.md",
