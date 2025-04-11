@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6019a5ceaf39dd24",
+        "id": "1d682bd8791745f7",
         "type": "tabs",
         "children": [
           {
-            "id": "68cecc47a5218fa5",
+            "id": "c10b639fa80e8af1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Database/SQL/Tipos de dados.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tipos de dados"
             }
           }
         ]
@@ -161,35 +165,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59f641c647b7f4ac",
+  "active": "c10b639fa80e8af1",
   "lastOpenFiles": [
-    "Nodejs/API_REST/APIRestFull.md",
-    "Nodejs/Manipulando_Dados/Amazenamento de dados.md",
-    "Nodejs/Manipulando_Dados/api/src/db.json",
-    "Nodejs/Manipulando_Dados/api/src/database.js",
-    "Nodejs/Manipulando_Dados/api/src/utils/parseRoutrPath.js",
-    "Nodejs/Manipulando_Dados/api/src/utils/extract-query-params.js",
-    "Nodejs/Manipulando_Dados/api/src/Routes/routes.js",
-    "Nodejs/Manipulando_Dados/api/src/Middleware/routesHandler.js",
-    "Nodejs/Manipulando_Dados/api/src/Middleware/jsonHandler.js",
-    "Nodejs/Manipulando_Dados/api/src/utils",
-    "Nodejs/Manipulando_Dados/api/src/server.js",
-    "Nodejs/Manipulando_Dados/api/src/Routes",
-    "Nodejs/Node.md",
-    "Javascript/03-Antes_do_framework/Pacotes/Pacotes.md",
-    "Nodejs/Fundamentos_de_API/Middleware.md",
-    "Nodejs/Fundamentos_de_API/Metodos HTTP.md",
-    "Nodejs/Fundamentos_de_API/Como o node lida com requisições HTTP.md",
+    "Database/img/tipos de dados.png",
+    "Database/SQL/Tipos de dados.md",
+    "Database/SQL/SQL.md",
+    "Database/SQL",
+    "Database/Introdução/SQLite.md",
+    "Database/Introdução/Banco de dados relacional.md",
+    "Database/img/primary_key.png",
+    "Database/img/coluna_linha.png",
+    "Database/img/tabela.png",
+    "Database/img",
+    "Database/Introdução/Database.md",
+    "Nodejs/API_REST/Schema_Validation/Schema Validation.md",
+    "Nodejs/API_REST/Express/api-rest/node_modules/typescript/ThirdPartyNoticeText.txt",
+    "Nodejs/API_REST/Express/api-rest/node_modules/typescript/LICENSE.txt",
+    "Nodejs/API_REST/Express/api-rest/node_modules/typescript/lib/typescript.d.ts",
+    "Nodejs/API_REST/Express/api-rest/node_modules/typescript/lib/tsserverlibrary.d.ts",
+    "Nodejs/API_REST/Express/api-rest/node_modules/typescript/lib/lib.webworker.iterable.d.ts",
+    "Nodejs/API_REST/Express/api-rest/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+    "Nodejs/API_REST/Express/api-rest/node_modules/typescript/lib/lib.webworker.d.ts",
+    "Nodejs/API_REST/Express/api-rest/node_modules/typescript/lib/lib.webworker.asynciterable.d.ts",
+    "Nodejs/API_REST/Express/api-rest/node_modules/typescript/SECURITY.md",
+    "Nodejs/API_REST/Express/api-rest/node_modules/typescript/README.md",
+    "Nodejs/API_REST/Express/api-rest/node_modules/@esbuild/win32-x64/README.md",
+    "Nodejs/API_REST/Express/api-rest/node_modules/object-inspect/CHANGELOG.md",
+    "Nodejs/API_REST/Express/api-rest/node_modules/tsx/README.md",
+    "Nodejs/API_REST/Express/api-rest/node_modules/math-intrinsics/README.md",
+    "Nodejs/API_REST/Express/api-rest/node_modules/math-intrinsics/CHANGELOG.md",
+    "Nodejs/API_REST/Express/api-rest/node_modules/qs/README.md",
+    "Nodejs/API_REST/Express/api-rest/node_modules/express/Readme.md",
+    "Nodejs/API_REST/Express/api-rest/node_modules/qs/LICENSE.md",
+    "Nodejs/API_REST/Express/api-rest/node_modules/qs/CHANGELOG.md",
+    "Nodejs/API_REST/Express/api-rest/node_modules/express/History.md",
+    "Nodejs/API_REST/Express/api-rest/node_modules/call-bind-apply-helpers/README.md",
+    "Nodejs/API_REST/Express/api-rest/node_modules/es-errors/README.md",
+    "Nodejs/API_REST/Express/api-rest/node_modules/has-symbols/README.md",
+    "Nodejs/API_REST/Express/api-rest/node_modules/call-bind-apply-helpers/CHANGELOG.md",
+    "Nodejs/API_REST/Express/api-rest/node_modules/es-errors/CHANGELOG.md",
+    "Nodejs/API_REST/Express/api-rest/node_modules/has-symbols/CHANGELOG.md",
+    "Nodejs/API_REST/Express/api-rest/node_modules/body-parser/SECURITY.md",
     "Nodejs/images/middleware.png",
     "Nodejs/images/middleware.png",
     "Nodejs/images/comunicacao_do_node.png",
     "Nodejs/images/event-loop.png",
-    "Nodejs/Fundamentos_de_API/API.md",
     "Nodejs/images/chunks_exemplo.png",
-    "Nodejs/images/API.png",
-    "Nodejs/images/image.png",
-    "Nodejs/Funcionamento do Node.md",
-    "Typescript/introdução/Typescript.md",
-    "Javascript/03-Antes_do_framework/Bundlers/Bundlers.md"
+    "Nodejs/images/API.png"
   ]
 }

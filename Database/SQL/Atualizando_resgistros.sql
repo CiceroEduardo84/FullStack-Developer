@@ -1,0 +1,1 @@
+UPDATE products SET price = 45.90, category = 'Acessory' WHERE id = 5;
