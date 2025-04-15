@@ -1,0 +1,1 @@
+SELECT * from products WHERE name = 'Mouse';
