@@ -1,0 +1,3 @@
+docker ps - Lista todos os container que estão rodando
+docker image ls - Lista todas as imagns disponiveis.
+docker build -t api . - Trazer a imagem para a nosaa máquina
