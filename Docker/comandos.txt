@@ -1,17 +1,19 @@
-docker ps - Lista todos os container que estão rodando
-ddocker pd -a - Lista todos os containers
-docker image ls - Lista todas as imagns disponiveis.
-docker build -t api . - Trazer a imagem para a nosaa máquina
-docker run -p 3333:3333 api ou [ID da imagem] - Definindo a porta de comunicação ao qual a aplicação ira rodas
-docker run -p 3333:3333 -d api - Executando em background
-docker logs [Id do container] - Visualizar logs
-docker history api  ou  [ID da imagem] - Visualizar  histórico do container
-docker pause [ID do container] - Pausando container
-docker unpause [ID do container] - Despausar o container
-docker stop [ID do container] - Container interrompido
-docker start [ID do container] - Voltando a executar o container
-docker rm [ID do container] - Removendo o container
-docker rm -f [ID do container] - Forçando a remoção de um container
-docker rmi [ID DA IMAGEM] - Removendo imagem
-docker build -t api:v1 . - Usanod tags para versionar imagens
-docker  runn  -p  3333:3333 -d api:v2  - Executando em background imagem com tags para versionamento
+docker ps → Lista containers em execução.
+docker ps -a → Lista todos os containers (inclusive parados).
+docker image ls → Lista todas as imagens locais.
+docker build -t api . → Cria a imagem api a partir do Dockerfile no diretório atual.
+docker build -t api:v1 . → Cria a imagem api com tag de versão v1.
+docker run -p 3333:3333 api → Executa a imagem api, mapeando porta 3333 do host para 3333 do container.
+docker run -p 3333:3333 -d api → Executa a imagem api em background (modo detached).
+docker run -p 3333:3333 -d api:v2 → Executa em background a imagem api com a tag v2.
+docker logs [ID/NOME] → Mostra os logs de um container.
+docker history [ID/NOME da imagem] → Mostra o histórico de camadas de uma imagem.
+docker pause [ID/NOME] → Pausa a execução de um container.
+docker unpause [ID/NOME] → Retoma a execução de um container pausado.
+docker stop [ID/NOME] → Para um container em execução.
+docker start [ID/NOME] → Inicia um container parado.
+docker rm [ID/NOME] → Remove um container parado.
+docker rm -f [ID/NOME] → Força a remoção de um container em execução.
+docker rmi [ID/NOME da imagem] → Remove uma imagem local.
+docker exec -it [ID/NOME] /bin/sh → Abre um shell dentro do container (quando há /bin/sh).
+docker exec -it [ID/NOME] bash → Abre um shell dentro do container (quando há bash).
