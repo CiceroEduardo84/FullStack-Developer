@@ -1,3 +1,17 @@
 docker ps - Lista todos os container que estão rodando
+ddocker pd -a - Lista todos os containers
 docker image ls - Lista todas as imagns disponiveis.
 docker build -t api . - Trazer a imagem para a nosaa máquina
+docker run -p 3333:3333 api ou [ID da imagem] - Definindo a porta de comunicação ao qual a aplicação ira rodas
+docker run -p 3333:3333 -d api - Executando em background
+docker logs [Id do container] - Visualizar logs
+docker history api  ou  [ID da imagem] - Visualizar  histórico do container
+docker pause [ID do container] - Pausando container
+docker unpause [ID do container] - Despausar o container
+docker stop [ID do container] - Container interrompido
+docker start [ID do container] - Voltando a executar o container
+docker rm [ID do container] - Removendo o container
+docker rm -f [ID do container] - Forçando a remoção de um container
+docker rmi [ID DA IMAGEM] - Removendo imagem
+docker build -t api:v1 . - Usanod tags para versionar imagens
+docker  runn  -p  3333:3333 -d api:v2  - Executando em background imagem com tags para versionamento
