@@ -17,3 +17,10 @@ docker rm -f [ID/NOME] → Força a remoção de um container em execução.
 docker rmi [ID/NOME da imagem] → Remove uma imagem local.
 docker exec -it [ID/NOME] /bin/sh → Abre um shell dentro do container (quando há /bin/sh).
 docker exec -it [ID/NOME] bash → Abre um shell dentro do container (quando há bash).
+docker container inspect [ID/NOME] → Inspeciona um container
+docker volume create [NOME] → Cria um volume
+docker volume inspect [NOME] → Inspeciona um volume
+docker run -v [NOME]:/usr/src/app -p 3333:3333 -d api → Executa um volume
+docker container prune → Deleta todos os containers parados
+docker volume rm [NOME] → Deleta um container em especfico
+docker run --name db_postgres -e POSTGRES_USER=postegres -e POSTGRES_PASSWORD=postgres -p 5432:5432 -d bitname/postgresql:latest → Rodar uma imagem postgres

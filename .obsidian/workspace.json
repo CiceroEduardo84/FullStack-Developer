@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Efemeridade em containers.md",
+                "file": "Docker/Docker Compose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Efemeridade em containers"
+              "title": "Docker Compose"
             }
           }
         ]
@@ -168,8 +168,13 @@
   },
   "active": "b6e68264fe10858d",
   "lastOpenFiles": [
-    "Docker/Docker.md",
+    "Docker/images/Modelo_antigo_docker.png",
+    "Docker/Docker Compose.md",
+    "Docker/images/Docker_compose.png",
+    "Docker/images",
+    "Pasted image 20251001125543.png",
     "Docker/Efemeridade em containers.md",
+    "Docker/Docker.md",
     "Docker/Projeto_base/Dockerfile",
     "Docker/Projeto_base/src/server.ts",
     "Docker/Projeto_base/src",
@@ -179,7 +184,6 @@
     "Docker/Projeto_base",
     "Docker/fullstack-docker-api-main/src/server.ts",
     "Docker/fullstack-docker-api-main/src",
-    "Docker/fullstack-docker-api-main/tsconfig.json",
     "QueryBuilder/Migrations.md",
     "QueryBuilder/Query Builder.md",
     "QueryBuilder/Projeto_base/node_modules/socks/docs/examples/typescript/connectExample.md",
@@ -202,17 +206,12 @@
     "QueryBuilder/Projeto_base/node_modules/knex/node_modules/ms/readme.md",
     "QueryBuilder/Projeto_base/node_modules/knex/node_modules/ms/license.md",
     "QueryBuilder/Projeto_base/node_modules/knex/node_modules/debug/README.md",
-    "QueryBuilder/Projeto_base/node_modules/https-proxy-agent/node_modules/ms/readme.md",
-    "QueryBuilder/Projeto_base/node_modules/https-proxy-agent/node_modules/ms/license.md",
     "QueryBuilder/Projeto_base/node_modules/unique-filename/coverage/sort-arrow-sprite.png",
     "QueryBuilder/Projeto_base/node_modules/retry/equation.gif",
     "QueryBuilder/images/migrations.png",
     "QueryBuilder/images/query Builder.png",
     "Database/img/tipos de dados.png",
     "Database/img/primary_key.png",
-    "Database/img/coluna_linha.png",
-    "Database/img/tabela.png",
-    "Nodejs/images/middleware.png",
-    "Nodejs/images/middleware.png"
+    "Database/img/coluna_linha.png"
   ]
 }
