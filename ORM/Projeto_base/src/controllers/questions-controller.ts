@@ -3,7 +3,9 @@ import {prisma} from "@/prisma"
 
 class QuestionsController {
   async index(request: Request, response: Response) {
-    return response.json()
+    const question = await prisma.question.findMany()
+    
+    return response.json(question)
   }
 
   async create(request: Request, response: Response) {
