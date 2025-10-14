@@ -20,3 +20,16 @@ model User {
 
   @@map("users")
 }
+
+model Question {
+  id String @id @default(uuid())
+  title String
+  content String
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  userId String @map("user_id")
+
+  @@map("questions")
+}
