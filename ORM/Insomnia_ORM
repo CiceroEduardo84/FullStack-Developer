@@ -1,0 +1,229 @@
+type: collection.insomnia.rest/5.0
+name: ORM
+meta:
+  id: wrk_0c04b5aa1a984fbca6af53da97d5fd19
+  created: 1759889419041
+  modified: 1759889419041
+  description: ""
+collection:
+  - name: Users
+    meta:
+      id: fld_d040519a34274e5cb7d196f22726b548
+      created: 1759889467746
+      modified: 1759889489333
+      sortKey: -1759889467746
+      description: ""
+    children:
+      - url: http://localhost:3333/users
+        name: create
+        meta:
+          id: req_ae49fe6b8c844b41a48ce41d5e55ad0f
+          created: 1759889492500
+          modified: 1760322240292
+          isPrivate: false
+          description: ""
+          sortKey: -1759889492500
+        method: POST
+        body:
+          mimeType: application/json
+          text: |-
+            {	
+            	"name":"tessstt",
+              "email":"ttesst@gmail.com"
+            }
+        headers:
+          - name: Content-Type
+            value: application/json
+          - name: User-Agent
+            value: insomnia/11.6.1
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+      - url: http://localhost:3333/users
+        name: index
+        meta:
+          id: req_abb42aafbb414db1bda07588366c01e0
+          created: 1760322185683
+          modified: 1760322201653
+          isPrivate: false
+          description: ""
+          sortKey: -1760322185683
+        method: GET
+        headers:
+          - name: User-Agent
+            value: insomnia/11.6.1
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+      - url: http://localhost:3333/users/8e4a2e2b-fee1-4884-8a41-13f3e22898e3
+        name: show
+        meta:
+          id: req_6f3b5a67e131494ab96ff6934814abda
+          created: 1760322412903
+          modified: 1760322431983
+          isPrivate: false
+          description: ""
+          sortKey: -1760105839091.5
+        method: GET
+        headers:
+          - name: User-Agent
+            value: insomnia/11.6.1
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+  - name: Questions
+    meta:
+      id: fld_95a64e9dc9584ec28d5b03555363cb26
+      created: 1760406537213
+      modified: 1760406537213
+      sortKey: -1760406537213
+      description: ""
+    children:
+      - url: http://localhost:3333/questions
+        name: create
+        meta:
+          id: req_8007520831244ea9a20c13df76328996
+          created: 1760406541429
+          modified: 1760408601003
+          isPrivate: false
+          description: ""
+          sortKey: -1760406541429
+        method: POST
+        body:
+          mimeType: application/json
+          text: |-
+            {
+            	"title":"ORM",
+            	"content":"Como inserir no banco de horas",
+            	"user_id":"8e4a2e2b-fee1-4884-8a41-13f3e22898e3"
+            }
+        headers:
+          - name: Content-Type
+            value: application/json
+          - name: User-Agent
+            value: insomnia/11.6.1
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+      - url: http://localhost:3333/questions
+        name: index
+        meta:
+          id: req_10510908f66444c2a60ceb342d1bf8c3
+          created: 1760408949680
+          modified: 1760496083683
+          isPrivate: false
+          description: ""
+          sortKey: -1760408949680
+        method: GET
+        parameters:
+          - id: pair_1bc6945350f74cbfa0d466b27161cab7
+            name: title
+            value: ORM
+            description: ""
+            disabled: false
+        headers:
+          - name: User-Agent
+            value: insomnia/11.6.1
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+      - url: http://localhost:3333/questions/a9fa45b0-7668-418e-9924-714172c2f662
+        name: update
+        meta:
+          id: req_f3235967226b4c02a948a34c4448e709
+          created: 1760542154389
+          modified: 1760542260459
+          isPrivate: false
+          description: ""
+          sortKey: -1760364363556
+        method: PUT
+        body:
+          mimeType: application/json
+          text: |-
+            {
+            	"title":"ORMmmmmmmmmmmmm",
+            	"content":"Como inserir no banco de horassssssssssss"
+            }
+        headers:
+          - name: Content-Type
+            value: application/json
+          - name: User-Agent
+            value: insomnia/11.6.1
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+      - url: http://localhost:3333/questions/a9fa45b0-7668-418e-9924-714172c2f662
+        name: delete
+        meta:
+          id: req_65a5fa404e444e41830e672df64d23f7
+          created: 1760542594080
+          modified: 1760542606213
+          isPrivate: false
+          description: ""
+          sortKey: -1760343274619.5
+        method: DELETE
+        body:
+          mimeType: application/json
+          text: ""
+        parameters:
+          - id: pair_594571508eee4580a620d9cf0ee182af
+            name: ""
+            value: ""
+            description: ""
+            disabled: false
+        headers:
+          - name: Content-Type
+            value: application/json
+          - name: User-Agent
+            value: insomnia/11.6.1
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+cookieJar:
+  name: Default Jar
+  meta:
+    id: jar_9bff76a3da6508e48cdcea7fa2db2df7a87d13b0
+    created: 1759889419048
+    modified: 1759889419048
+environments:
+  name: Base Environment
+  meta:
+    id: env_9bff76a3da6508e48cdcea7fa2db2df7a87d13b0
+    created: 1759889419045
+    modified: 1759889419045
+    isPrivate: false
