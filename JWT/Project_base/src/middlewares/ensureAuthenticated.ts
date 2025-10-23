@@ -1,8 +1,12 @@
 import { authConfig } from "@/config/auth";
 import { AppError } from "@/utils/AppError";
-import { log } from "console";
 import { Request, Response, NextFunction } from "express";
 import { verify } from "jsonwebtoken";
+
+interface TokenPayload {
+  role: string;
+  sub: string;
+}
 
 export function ensureAuthenticadted(
   request: Request,
@@ -17,10 +21,14 @@ export function ensureAuthenticadted(
 
   const [, token] = authHeader.split(" ");
 
-  const { sub: user_id } = verify(token, authConfig.jwt.secret);
+  const { sub: user_id, role } = verify(
+    token,
+    authConfig.jwt.secret
+  ) as TokenPayload;
 
   request.user = {
     id: String(user_id),
+    role,
   };
 
   return next();
