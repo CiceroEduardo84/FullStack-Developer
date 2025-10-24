@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3e656c18960fdb7d",
+        "id": "904445fe200ff54b",
         "type": "tabs",
         "children": [
           {
-            "id": "9658ec6e392340cf",
+            "id": "4320971a389ae558",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JWT/Autenticação e Autorização.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Autenticação e Autorização"
+              "title": "New tab"
             }
           }
         ]
@@ -166,8 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59f641c647b7f4ac",
+  "active": "4320971a389ae558",
   "lastOpenFiles": [
+    "Teste/Testes automatizados.md",
+    "Teste",
+    "QueryBuilder/Migrations.md",
+    "QueryBuilder/Query Builder.md",
+    "Database/SQL/SQL.md",
+    "JWT/Autenticação e Autorização.md",
+    "JWT/JWT.md",
     "ORM/Insomnia_ORM",
     "JWT/Project_base/node_modules/ipaddr.js/lib/ipaddr.js.d.ts",
     "JWT/Project_base/node_modules/ipaddr.js/lib/ipaddr.js",
@@ -177,15 +180,11 @@
     "JWT/Project_base/node_modules/qs/lib/parse.js",
     "JWT/Project_base/node_modules/qs/lib/index.js",
     "JWT/Project_base/node_modules/qs/lib/formats.js",
-    "JWT/Project_base/node_modules/qs/lib",
-    "JWT/Project_base/node_modules/@types/node/dns/promises.d.ts",
     "JWT/Project_base/node_modules/@esbuild/win32-x64/README.md",
     "JWT/Project_base/node_modules/es-errors/CHANGELOG.md",
     "JWT/Project_base/node_modules/body-parser/SECURITY.md",
     "JWT/img/Fluxo de autorização.png",
-    "JWT/Autenticação e Autorização.md",
     "JWT/img/Fluxo de autenticação.png",
-    "JWT/JWT.md",
     "ORM/ORM.md",
     "JWT/img/func_jwt.png",
     "JWT/img/composicao_jwt.png",
@@ -198,8 +197,6 @@
     "Pasted image 20251001125543.png",
     "Docker/Efemeridade em containers.md",
     "Docker/Docker.md",
-    "QueryBuilder/Migrations.md",
-    "QueryBuilder/Query Builder.md",
     "QueryBuilder/Projeto_base/node_modules/socks/docs/examples/typescript/connectExample.md",
     "QueryBuilder/Projeto_base/node_modules/socks/docs/examples/typescript/associateExample.md",
     "QueryBuilder/Projeto_base/node_modules/socks/docs/examples/typescript/bindExample.md",
@@ -212,7 +209,6 @@
     "QueryBuilder/Projeto_base/node_modules/socks/docs/examples/index.md",
     "QueryBuilder/Projeto_base/node_modules/socks-proxy-agent/node_modules/ms/readme.md",
     "QueryBuilder/Projeto_base/node_modules/socks-proxy-agent/node_modules/ms/license.md",
-    "QueryBuilder/Projeto_base/node_modules/socks-proxy-agent/node_modules/debug/README.md",
     "QueryBuilder/Projeto_base/node_modules/unique-filename/coverage/sort-arrow-sprite.png"
   ]
 }
