@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "904445fe200ff54b",
+        "id": "67fb02abed12316f",
         "type": "tabs",
         "children": [
           {
-            "id": "4320971a389ae558",
+            "id": "8805f8e9b3f6970a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Gerenciando_dependencias/Versionamento Semântico.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Versionamento Semântico"
             }
           }
         ]
@@ -162,24 +166,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4320971a389ae558",
+  "active": "8805f8e9b3f6970a",
   "lastOpenFiles": [
+    "Gerenciando_dependencias/node_modules/ipaddr.js/lib/ipaddr.js.d.ts",
+    "Gerenciando_dependencias/node_modules/ipaddr.js/lib/ipaddr.js",
+    "Gerenciando_dependencias/node_modules/ipaddr.js/lib",
+    "Gerenciando_dependencias/node_modules/has-symbols/test/shams/get-own-property-symbols.js",
+    "Gerenciando_dependencias/node_modules/has-symbols/test/shams/core-js.js",
+    "Gerenciando_dependencias/node_modules/has-symbols/test/tests.js",
+    "Gerenciando_dependencias/node_modules/has-symbols/test/shams",
+    "Gerenciando_dependencias/node_modules/has-symbols/test/index.js",
+    "Gerenciando_dependencias/node_modules/has-symbols/test",
+    "Gerenciando_dependencias/node_modules/get-intrinsic/test/GetIntrinsic.js",
+    "Gerenciando_dependencias/node_modules/get-intrinsic/test",
+    "Gerenciando_dependencias/node_modules/iconv-lite/README.md",
+    "Gerenciando_dependencias/node_modules/iconv-lite/Changelog.md",
+    "Gerenciando_dependencias/node_modules/media-typer/HISTORY.md",
+    "Gerenciando_dependencias/node_modules/depd/History.md",
+    "Gerenciando_dependencias/Versionamento Semântico.md",
+    "Deploy/Deploy.md",
+    "Docker/Docker.md",
     "Teste/Testes automatizados.md",
-    "Teste",
     "QueryBuilder/Migrations.md",
     "QueryBuilder/Query Builder.md",
     "Database/SQL/SQL.md",
     "JWT/Autenticação e Autorização.md",
     "JWT/JWT.md",
-    "ORM/Insomnia_ORM",
-    "JWT/Project_base/node_modules/ipaddr.js/lib/ipaddr.js.d.ts",
-    "JWT/Project_base/node_modules/ipaddr.js/lib/ipaddr.js",
-    "JWT/Project_base/node_modules/ipaddr.js/lib",
-    "JWT/Project_base/node_modules/qs/lib/stringify.js",
-    "JWT/Project_base/node_modules/qs/lib/utils.js",
-    "JWT/Project_base/node_modules/qs/lib/parse.js",
-    "JWT/Project_base/node_modules/qs/lib/index.js",
-    "JWT/Project_base/node_modules/qs/lib/formats.js",
     "JWT/Project_base/node_modules/@esbuild/win32-x64/README.md",
     "JWT/Project_base/node_modules/es-errors/CHANGELOG.md",
     "JWT/Project_base/node_modules/body-parser/SECURITY.md",
@@ -196,19 +208,11 @@
     "Docker/images/Docker_compose.png",
     "Pasted image 20251001125543.png",
     "Docker/Efemeridade em containers.md",
-    "Docker/Docker.md",
     "QueryBuilder/Projeto_base/node_modules/socks/docs/examples/typescript/connectExample.md",
     "QueryBuilder/Projeto_base/node_modules/socks/docs/examples/typescript/associateExample.md",
     "QueryBuilder/Projeto_base/node_modules/socks/docs/examples/typescript/bindExample.md",
     "QueryBuilder/Projeto_base/node_modules/socks/docs/examples/javascript/connectExample.md",
     "QueryBuilder/Projeto_base/node_modules/socks/docs/examples/javascript/bindExample.md",
-    "QueryBuilder/Projeto_base/node_modules/socks/docs/examples/javascript/associateExample.md",
-    "QueryBuilder/Projeto_base/node_modules/knex/lib/dialects/oracle/DEAD_CODE.md",
-    "QueryBuilder/Projeto_base/node_modules/tar/node_modules/minipass/README.md",
-    "QueryBuilder/Projeto_base/node_modules/tar-fs/node_modules/chownr/README.md",
-    "QueryBuilder/Projeto_base/node_modules/socks/docs/examples/index.md",
-    "QueryBuilder/Projeto_base/node_modules/socks-proxy-agent/node_modules/ms/readme.md",
-    "QueryBuilder/Projeto_base/node_modules/socks-proxy-agent/node_modules/ms/license.md",
     "QueryBuilder/Projeto_base/node_modules/unique-filename/coverage/sort-arrow-sprite.png"
   ]
 }

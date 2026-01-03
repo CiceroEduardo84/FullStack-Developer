@@ -1,0 +1,6 @@
+npm outdated = lista pacotes desatualizados
+npm out
+npm i [nomepacote]@latest = busca versão atual do pacote
+npx npm-check-updates = lista pacotes e sugestões de atualizações
+npx npm-check-updates -u = atualiza para as versões recomendadas
+npx npm-check-updates --interactive --format group = Atualiza as versões de forma interativa
