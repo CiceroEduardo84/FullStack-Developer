@@ -1,6 +1,6 @@
 # [[Javascript]] - TypeScript
 
-O javaScript ´eum alinguagem não-tipada. Isto é, podemos criar uma variável para receber conteúdo de tipos diferentes.
+O javaScript é uma alinguagem não-tipada. Isto é, podemos criar uma variável para receber conteúdo de tipos diferentes.
 
 Por exemplo, podemos criar funções que esperam números e chamá-las enviando uma string ou vice-versa.
 

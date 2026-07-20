@@ -1,7 +1,7 @@
 # [[Node]] - API
 
 
-Application Programming Interface(Interface de Programação de Aplicação) ofere funcionalidades sem a necessidade de saber como foram implementadas.
+Application Programming Interface(Interface de Programação de Aplicação) oferece funcionalidades sem a necessidade de saber como foram implementadas.
 
 ![[API.png]]
 
