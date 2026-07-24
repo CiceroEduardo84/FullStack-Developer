@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0b2ca0f6c6387a22",
+        "id": "fb3526e024e3797d",
         "type": "tabs",
         "children": [
           {
-            "id": "02a5ab91920276d4",
+            "id": "78edf0aca2a926eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/React.md",
+                "file": "React/useEffect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React"
-            }
-          },
-          {
-            "id": "b52c8b186b0c8b80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/Componentes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Componentes"
-            }
-          },
-          {
-            "id": "48345189ef9fae9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/React.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "React"
+              "title": "useEffect"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,8 +166,16 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "b52c8b186b0c8b80",
+  "active": "78edf0aca2a926eb",
   "lastOpenFiles": [
+    "React/Estados E Renderização.md",
+    "React/images/useEffect.png",
+    "React/useEffect.md",
+    "React/React.md",
+    "React/Componentes.md",
+    "React/Hooks.md",
+    "React/images/rerenderizacao.png",
+    "React/images",
     "React/BaseProject/node_modules/@vitejs/plugin-react/dist/refresh-runtime.js",
     "React/BaseProject/node_modules/@vitejs/plugin-react/dist/index.js",
     "React/BaseProject/node_modules/@vitejs/plugin-react/dist/index.d.ts",
@@ -206,10 +185,6 @@
     "React/BaseProject/node_modules/ms/package.json",
     "React/BaseProject/node_modules/picomatch/lib/utils.js",
     "React/BaseProject/node_modules/picomatch/lib/scan.js",
-    "React/BaseProject/node_modules/picomatch/lib/picomatch.js",
-    "React/BaseProject/node_modules/picomatch/lib/parse.js",
-    "React/React.md",
-    "React/Componentes.md",
     "React/BaseProject/src/assets/vite.svg",
     "React/BaseProject/src/assets/react.svg",
     "React/BaseProject/src/assets/hero.png",
@@ -228,8 +203,6 @@
     "React/ProjectBase/Classroom/src/assets/vite.svg",
     "React/ProjectBase/Classroom/src/assets/react.svg",
     "React/ProjectBase/Classroom/src/assets/hero.png",
-    "React/ProjectBase/Classroom/public/icons.svg",
-    "React/ProjectBase/Classroom/public/favicon.svg",
     "React/ProjectBase/Classroom/README.md",
     "Cors/Cors.md",
     "Typescript/introdução/Typescript.md",
@@ -239,9 +212,6 @@
     "Gerenciando_dependencias/Versionamento Semântico.md",
     "Gerenciando_dependencias/node_modules/iconv-lite/README.md",
     "Gerenciando_dependencias/node_modules/iconv-lite/Changelog.md",
-    "Gerenciando_dependencias/node_modules/media-typer/HISTORY.md",
-    "Gerenciando_dependencias/node_modules/depd/History.md",
-    "Deploy/Deploy.md",
-    "Docker/Docker.md"
+    "Gerenciando_dependencias/node_modules/media-typer/HISTORY.md"
   ]
 }
