@@ -40,3 +40,13 @@ button:hover,
 a:hover {
   filter: brightness(0.7);
 }
+
+span{
+  color: #3d3d3d;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+strong{
+  
+}
