@@ -13,6 +13,7 @@ body {
   align-items: center;
 
   background-color: #fbf4f4;
+  padding: 32px;
 }
 
 h1 {
@@ -41,12 +42,40 @@ a:hover {
   filter: brightness(0.7);
 }
 
-span{
+span {
   color: #3d3d3d;
   font-weight: 600;
   font-size: 14px;
 }
 
-strong{
-  
+strong {
+  color: #f24d0d;
+  text-transform: uppercase;
+}
+
+button {
+  background-color: f24d0d;
+  padding: 12px 16px;
+  border-radius: 7px;
+  border: none;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.cards {
+  display: flex;
+  gap: 16px;
+  margin: 18px 0;
+}
+
+.cards a {
+  width: 100px;
+  height: 100px;
+  background-color: #d7eff9;
+  color: #0095e5;
+  border-radius: 12px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
